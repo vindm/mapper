@@ -1,0 +1,14 @@
+{
+    "name": "mapper",
+    "version": "0.0.1",
+    "author": {
+        "name": "Dmitriy Vinokurov",
+        "email": "vinokuroff.dm@gmail.com",
+        "url": "http://github.com/vindm"
+    },
+    "directories": {
+        "lib": "./lib"
+    },
+    "main": "./lib/mapper.js",
+    "license": "MIT"
+}
