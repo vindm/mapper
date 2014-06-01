@@ -1,0 +1,23 @@
+{
+    "name": "mapper",
+    "version": "0.2.0",
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/vindm/mapper"
+    },
+    "homepage": "https://github.com/vindm/mapper",
+    "main": "./lib/mapper.js",
+    "scripts": {
+        "test": "jshint --config ./.jshintrc ./lib && jscs ./lib"
+    },
+    "author": {
+        "name": "Dmitriy Vinokurov",
+        "email": "vinokuroff.dm@gmail.com",
+        "url": "http://github.com/vindm"
+    },
+    "devDependencies": {
+        "jshint": "2.1.x",
+        "jscs": ">=1.0.5"
+    }
+}
