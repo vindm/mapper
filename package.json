@@ -1,6 +1,6 @@
 {
-    "name": "mapper",
-    "version": "0.2.0",
+    "name": "fitter",
+    "version": "0.2.1",
     "description" : "Placing blocks on plane in a horizontal, vertical or compact layout.",
     "license": "MIT",
     "repository": {
