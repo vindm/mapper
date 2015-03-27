@@ -1,6 +1,6 @@
 {
     "name": "fitter",
-    "version": "0.2.1",
+    "version": "0.2.2",
     "description" : "Placing blocks on plane in a horizontal, vertical or compact layout.",
     "license": "MIT",
     "repository": {
